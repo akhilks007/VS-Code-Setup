@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "/bin/python3",
+    "workbench.colorTheme": "One Monokai",
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.autoSave": "afterDelay"
+}
